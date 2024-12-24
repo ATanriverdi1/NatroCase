@@ -1,0 +1,12 @@
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.AssemblyInfoInputs.cache
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.AssemblyInfo.cs
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\bin\Debug\net8.0\NatroCase.Domain.deps.json
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\bin\Debug\net8.0\NatroCase.Domain.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\bin\Debug\net8.0\NatroCase.Domain.pdb
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.csproj.AssemblyReference.cache
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\refint\NatroCase.Domain.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\NatroCase.Domain.pdb
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Domain\obj\Debug\net8.0\ref\NatroCase.Domain.dll

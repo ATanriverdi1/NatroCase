@@ -1,0 +1,15 @@
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\bin\Debug\net8.0\NatroCase.Application.deps.json
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\bin\Debug\net8.0\NatroCase.Application.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\bin\Debug\net8.0\NatroCase.Application.pdb
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\bin\Debug\net8.0\NatroCase.Domain.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\bin\Debug\net8.0\NatroCase.Domain.pdb
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.csproj.AssemblyReference.cache
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.AssemblyInfoInputs.cache
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.AssemblyInfo.cs
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.csproj.CoreCompileInputs.cache
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCas.EB757702.Up2Date
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\refint\NatroCase.Application.dll
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\NatroCase.Application.pdb
+C:\Users\alihantanriverdi\RiderProjects\ödev\NatroCase\NatroCase.Application\obj\Debug\net8.0\ref\NatroCase.Application.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s0nQ2nAEGzYawkfzfGVrPhRqhvTvN0xWQqTIQqYqOQ0=",
+  "Source": "NatroCase.Api",
+  "BasePath": "_content/NatroCase.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
